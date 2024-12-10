@@ -1,0 +1,17 @@
+@font-face{
+    font-family: MyFont;
+    src:url("D:/app2/src/pages/Fonts/Parkinsans/Parkinsans-VariableFont_wght.ttf");
+}
+Link{
+    text-decoration: none;
+}
+
+.Rules{
+    border: 1px;
+    background-color: aliceblue;
+    border-radius: 25px;
+    opacity: 80%;
+}
+.Rules ul li{
+    font-family: MyFont;
+}
